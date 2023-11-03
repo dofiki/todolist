@@ -1,1 +1,2 @@
-live demo: https://dofiki.github.io/todolist/
+todo list.
+websit link: https://dofiki.github.io/todolist/
